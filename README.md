@@ -2,6 +2,8 @@
 
 Create a AWS VPC using Terraform
 
+![Alt text](first.png)
+
 1. Create a folder on your local machine
   => Create "example:main.tf" file.
   
